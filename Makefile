@@ -3,4 +3,4 @@ agent:
 
 
 run:
-	python3 ./agent.py
+	python ./agent.py
